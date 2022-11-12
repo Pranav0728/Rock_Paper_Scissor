@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(255, 205, 214);
+}
+#HR{
+    font-family: 'Baloo 2', cursive; 
+    text-align: center;
+    height: 20%;
+    font-size: 80px;
+    border: 5px solid black;
+    margin: 23px 200px;
+    background-color: rgb(216, 216, 216);
+}
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: rgb(212, 212, 212);
+    border: 2px solid black;
+}
+.choiceBtn:hover{
+    background-color: gray;
+}
+#gameDiv{
+    font-family: 'Baloo 2', cursive;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: rgb(246, 246, 180);
+    text-align: center;
+    width: 50%;
+    align-items: center;
+    margin: 100px auto;
+}
+#playerText{
+    color: brown;
+    font-size: 55px;
+    
+}
+#computerText{
+    color: brown;
+    font-size: 55px;
+}
